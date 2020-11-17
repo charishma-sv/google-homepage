@@ -1,0 +1,40 @@
+img {
+  /*width: 30%;
+  /*height: 200px;
+  margin-top: 40%;*/
+  display: block;
+  padding-top: 10%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+}
+
+input {
+  width: 30%;
+  margin-left: 35%;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+li {
+  float: left;
+}
+.to-right {
+  float: right;
+}
+li a {
+  display: block;
+  padding: 10px;
+  text-decoration: none;
+  color: black;
+}
+.butn {
+  background-color: rgb(61, 113, 226);
+}
+.clr {
+  color: white;
+}
